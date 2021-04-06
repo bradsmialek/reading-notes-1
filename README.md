@@ -4,4 +4,4 @@ Growth mindstate is the idea that individuals can develop their talents through 
 ## Three ways I kep myself in a growth mindstate.
   * the more knowlege and information I aquire the more I can apply that knowlege to.
   * Failure is expected and may take me several try's to get it right.
-  * When I find myself getting frustrared, I remember what I doingbthis for.
+  * When I find myself getting frustrared, I remember what I doing this for.
