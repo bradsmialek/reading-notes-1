@@ -9,7 +9,7 @@ Growth mindstate is the idea that individuals can develop their talents through 
   * ~~Never Say Never~~
 
 # Things I do to stay motivated.
- *_1. Reflect on where I was yesterday vs today*_.
+ *1. Reflect on where I was yesterday vs today*.
  
  *2. Ask myself What did I learn today?*
  
