@@ -14,3 +14,4 @@ Growth mindstate is the idea that individuals can develop their talents through 
  *2. Ask myself What did I learn today?*
  
  *3. Learn how to turn Frustration into Fun*.
+ 
